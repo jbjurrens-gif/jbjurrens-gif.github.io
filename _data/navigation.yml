@@ -9,7 +9,7 @@
 
 main:
   - title: "Contact Me"
-    url: /cv/
+    url: https://jbjurrens-gif.github.io/cv/
   - title: "Contact Me test2"
     url: /contact/
     
