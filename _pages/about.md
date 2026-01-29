@@ -13,5 +13,5 @@ I would really rather not put meaningful personal information on a public webpag
 
 Contact Me
 ======
-My contact information is on [this page](https://jbjurrens-gif.github.io/contact/), which can also be reached from the top bar.
+My contact information is on [this page](https://jbjurrens-gif.github.io/cv/), which can also be reached from the top bar.
 

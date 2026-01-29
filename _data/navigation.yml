@@ -10,11 +10,9 @@
 main:
   - title: "Contact Me"
     url: https://jbjurrens-gif.github.io/cv/
-  - title: "Contact Me test2"
-    url: /contact/
     
   # - title: "Contact"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
