@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "James Blake Jurrens testing3"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A computer engineering student at VT"
   location         : "Blacksburg"
   employer         : "VT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jbjurrens@vt.edu" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : #
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
