@@ -14,3 +14,5 @@ Contact Me By:
 * Email: jbjurrens@vt.edu
 * Phone: I will not put this on a public website
 
+You could not pay me to put my phone number on a public website.
+
